@@ -1,0 +1,100 @@
+body {
+    background-color: #244852;
+    color: white;
+}
+
+header {
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav {
+    text-align: center;
+    font-size: larger;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    padding: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.bemvindo {
+    width: 600px;
+    padding-right: 350px;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-right: 200px;
+    padding-top: 30px;
+    font-size: 20px;
+}
+
+input {
+    padding: 15px;
+    width: 400px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 5px;
+    font-size: 18px;
+}
+
+p.entre {
+    text-align: center;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 90px;
+    font-family: sans-serif;
+    color: #dfee08;
+}
+
+a.crie {
+    color: #dfee08;
+}
+
+figure {
+    padding-top: 90px;
+}
+
+a:hover {
+    color: #dfee08;
+}
+
+footer {
+    background-color: #1a353d;
+    text-align: center;
+    margin: -10px;
+    margin-bottom: -20px;
+}
+
+p.rodape {
+    padding-top: 20px;
+    font-style: oblique;
+}
+
+div.roda {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+}
